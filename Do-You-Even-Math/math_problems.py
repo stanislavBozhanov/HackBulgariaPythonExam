@@ -7,4 +7,3 @@ class MathProblems(Base):
     id = Colomn(Integer, primary_key=True)
     problem = Colomn(String)
     answer = Colomn(String)
-    
